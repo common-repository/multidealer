@@ -1,0 +1,1871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MultiDealer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-27 10:29+0100\n"
+"PO-Revision-Date: 2024-09-27 10:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: multidealer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dashboard/dashboard.php:14
+msgid "Follow these 3 steps after installing the plugin:"
+msgstr "Volg deze 3 stappen nadat u de plugin hebt geïnstalleerd:"
+
+#: dashboard/dashboard.php:19
+msgid "Configure Settings"
+msgstr "Instellingen configureren"
+
+#: dashboard/dashboard.php:20
+msgid "Go to"
+msgstr "Ga naar"
+
+#: dashboard/dashboard.php:21
+msgid "Dashboard => MultiDealer => Settings"
+msgstr "Dashboard => MultiDealer => Instellingen"
+
+#: dashboard/dashboard.php:23
+msgid "Fill out the information:"
+msgstr "Vul de gegevens in:"
+
+#: dashboard/dashboard.php:25
+msgid "Your Currency"
+msgstr "Uw valuta"
+
+#: dashboard/dashboard.php:27 settings/options/plugin_options_tabbed.php:64
+msgid "Miles - Km"
+msgstr "Mijlen - Km"
+
+#: dashboard/dashboard.php:29
+msgid "Your Contact Email"
+msgstr "Uw contact-e-mailadres"
+
+#: dashboard/dashboard.php:31 dashboard/dashboard.php:49
+#: dashboard/dashboard.php:70 includes/help/help.php:519
+#: includes/help/help.php:531 includes/help/help.php:597
+#: includes/help/help.php:617
+msgid "And So On..."
+msgstr "En zo verder..."
+
+#: dashboard/dashboard.php:36
+msgid "Fill Out the Fields Table"
+msgstr "Vul de veldentabel in"
+
+#: dashboard/dashboard.php:37 dashboard/dashboard.php:55
+msgid "Go to:"
+msgstr "Ga naar:"
+
+#: dashboard/dashboard.php:38
+msgid "Dashboard => MultiDealer => Fields Table"
+msgstr "Dashboard => MultiDealer => Veldentabel"
+
+#: dashboard/dashboard.php:40
+msgid "These are the fields that will appear in your product form."
+msgstr "Dit zijn de velden die in uw productformulier verschijnen."
+
+#: dashboard/dashboard.php:41
+msgid "For example, if you are a Car Dealer, you might want to add:"
+msgstr "Als u bijvoorbeeld een autodealer bent, kunt u het volgende toevoegen:"
+
+#: dashboard/dashboard.php:43
+msgid "Number of Passengers"
+msgstr "Aantal passagiers"
+
+#: dashboard/dashboard.php:45 includes/help/help.php:406
+msgid "Fuel Type"
+msgstr "Brandstoftype"
+
+#: dashboard/dashboard.php:47
+msgid "Engine HP"
+msgstr "Motor pk"
+
+#: dashboard/dashboard.php:54
+msgid "Fill Out Products Table"
+msgstr "Vul de productentabel in"
+
+#: dashboard/dashboard.php:56
+msgid "Dashboard => MultiDealer => Products Table"
+msgstr "Dashboard => MultiDealer => Productentabel"
+
+#: dashboard/dashboard.php:58
+msgid "Fill out this table with your products."
+msgstr "Vul deze tabel in met uw producten."
+
+#: dashboard/dashboard.php:60
+msgid "For example:"
+msgstr "Bijvoorbeeld:"
+
+#: dashboard/dashboard.php:62
+msgid "Cars"
+msgstr "Auto's"
+
+#: dashboard/dashboard.php:64
+msgid "Boats"
+msgstr "Boten"
+
+#: dashboard/dashboard.php:66
+msgid "Aircrafts"
+msgstr "Vliegtuigen"
+
+#: dashboard/dashboard.php:68
+msgid "Real Estate"
+msgstr "Vastgoed"
+
+#: dashboard/dashboard.php:72
+msgid "After that, copy and paste this code to your page:"
+msgstr "Kopieer en plak daarna deze code op uw pagina:"
+
+#: dashboard/dashboard.php:75
+msgid "Set Permalinks to Post Name"
+msgstr "Permalinks instellen op berichtnaam"
+
+#: dashboard/dashboard.php:76
+msgid "Dashboard => Settings => Permalink"
+msgstr "Dashboard => Instellingen => Permalink"
+
+#: dashboard/dashboard.php:82
+msgid "Help, Support, Troubleshooting:"
+msgstr "Help, ondersteuning, probleemoplossing:"
+
+#: dashboard/dashboard.php:87
+msgid "Help and More Tips"
+msgstr "Hulp en meer tips"
+
+#: dashboard/dashboard.php:88
+msgid ""
+"Just click the HELP button at the top right corner of this page for context "
+"help. Also, tooltips are available in the Fields form."
+msgstr ""
+"Klik gewoon op de HELP-knop in de rechterbovenhoek van deze pagina voor "
+"contextuele hulp. Ook zijn er tooltips beschikbaar in het Fields-formulier."
+
+#: dashboard/dashboard.php:93
+msgid "Online Guide, Support, Demo Video, FAQ..."
+msgstr "Online handleiding, ondersteuning, demovideo, FAQ..."
+
+#: dashboard/dashboard.php:94
+msgid ""
+"You will find our complete and updated online guide, demo video, FAQ page, "
+"support links, and more useful resources on our website."
+msgstr ""
+"Op onze website vindt u onze volledige en bijgewerkte online gids, "
+"demovideo, FAQ-pagina, ondersteuningslinks en nog veel meer nuttige bronnen."
+
+#: dashboard/dashboard.php:97
+msgid "Go"
+msgstr "Gaan"
+
+#: dashboard/dashboard.php:101
+msgid "Troubleshooting Guide"
+msgstr "Handleiding voor probleemoplossing"
+
+#: dashboard/dashboard.php:102
+msgid ""
+"Issues such as using an old WordPress version, low memory, plugins with "
+"JavaScript errors, or incorrect permalink settings can cause problems. Read "
+"this guide to quickly fix them!"
+msgstr ""
+"Problemen zoals het gebruik van een oude WordPress-versie, weinig geheugen, "
+"plugins met JavaScript-fouten of onjuiste permalink-instellingen kunnen "
+"problemen veroorzaken. Lees deze handleiding om ze snel op te lossen!"
+
+#: dashboard/dashboard.php:104
+msgid "Troubleshooting Page"
+msgstr "Probleemoplossingspagina"
+
+#: dashboard/main.php:106
+msgid "Fields Table"
+msgstr "Velden tabel"
+
+#: dashboard/main.php:107
+msgid "Products Table"
+msgstr "Producten Tabel"
+
+#: dashboard/main.php:108 includes/help/help.php:562
+#: includes/post-type/post-functions.php:50
+msgid "Makes"
+msgstr "Maakt"
+
+#: dashboard/main.php:109 includes/post-type/post-functions.php:78
+msgid "Locations"
+msgstr "Locaties"
+
+#: dashboard/main.php:110
+msgid "Settings"
+msgstr "Instellingen"
+
+#: dashboard/main.php:163
+msgid "Help and Support Page"
+msgstr "Help- en ondersteuningspagina"
+
+#: dashboard/memory.php:15 dashboard/memory.php:19 dashboard/memory.php:23
+#: dashboard/memory.php:27
+msgid "Unable to Check!"
+msgstr "Kan niet controleren!"
+
+#: dashboard/memory.php:40
+msgid "Not defined!"
+msgstr "Niet gedefinieerd!"
+
+#: dashboard/memory.php:45
+msgid "Memory Info"
+msgstr "Geheugeninfo"
+
+#: dashboard/memory.php:59
+msgid "Current memory WordPress Limit: "
+msgstr "Huidige geheugenlimiet WordPress:"
+
+#: dashboard/memory.php:64
+msgid "Your usage now: "
+msgstr "Uw gebruik nu:"
+
+#: dashboard/memory.php:68
+msgid "|&nbsp;&nbsp;&nbsp;   Total Server Memory: "
+msgstr "| Totaal servergeheugen: "
+
+#: dashboard/memory.php:73
+msgid ""
+"If you want to adjust and control your WordPress Memory Limit and PHP Memory "
+"Limit quickly and without editing any files, try our free plugin WPmemory:"
+msgstr ""
+"Als u uw WordPress-geheugenlimiet en PHP-geheugenlimiet snel en zonder "
+"bestanden te bewerken wilt aanpassen en beheren, probeer dan onze gratis "
+"plugin WPmemory:"
+
+#: dashboard/memory.php:75 dashboard/mybanners.php:43
+#: includes/diagnose/class_bill_diagnose.php:754
+#: includes/diagnose/class_bill_diagnose.php:792
+msgid "Learn More"
+msgstr "Meer informatie"
+
+#: dashboard/memory.php:77
+msgid "Follow these instructions to do it manually:"
+msgstr "Volg deze instructies om dit handmatig te doen:"
+
+#: dashboard/memory.php:79
+msgid ""
+"To increase the WordPress memory limit, add this to your wp-config.php file "
+"(located in the root folder of your server):"
+msgstr ""
+"Om de geheugenlimiet van WordPress te verhogen, voegt u het volgende toe aan "
+"uw wp-config.php-bestand (in de hoofdmap van uw server):"
+
+#: dashboard/memory.php:81
+msgid "before this line:"
+msgstr "voor deze regel:"
+
+#: dashboard/memory.php:84
+msgid "If you need more, just replace 128 with the new memory limit."
+msgstr ""
+"Als u meer geheugen nodig hebt, vervangt u 128 door de nieuwe geheugenlimiet."
+
+#: dashboard/memory.php:86
+msgid "To increase your total server memory, talk to your hosting company."
+msgstr ""
+"Neem contact op met uw hostingbedrijf als u het totale servergeheugen wilt "
+"vergroten."
+
+#: dashboard/memory.php:89
+msgid "How to Tell if Your Site Needs More Memory:"
+msgstr "Hoe weet u of uw site meer geheugen nodig heeft:"
+
+#: dashboard/memory.php:91
+msgid ""
+"If your site is slow, pages fail to load, or you encounter random white "
+"screens of death or 500 internal server errors, you may need more memory. "
+"Various factors consume memory, including WordPress itself, the plugins "
+"installed, the theme you are using, and the content on your site."
+msgstr ""
+"Als uw site traag is, pagina's niet laden of u willekeurige witte schermen "
+"van de dood of 500 interne serverfouten tegenkomt, hebt u mogelijk meer "
+"geheugen nodig. Verschillende factoren verbruiken geheugen, waaronder "
+"WordPress zelf, de geïnstalleerde plugins, het thema dat u gebruikt en de "
+"content op uw site."
+
+#: dashboard/memory.php:93
+msgid ""
+"As you add more content and features, your memory limit needs to increase. "
+"If you are running a small site with basic functions and no page builder or "
+"theme options, you may not need much memory. However, when using premium "
+"themes and plugins, you may need to adjust your memory limit to meet modern "
+"WordPress standards."
+msgstr ""
+"Naarmate u meer content en functies toevoegt, moet uw geheugenlimiet "
+"toenemen. Als u een kleine site met basisfuncties en geen paginabuilder of "
+"thema-opties beheert, hebt u mogelijk niet veel geheugen nodig. Wanneer u "
+"echter premiumthema's en plug-ins gebruikt, moet u mogelijk uw "
+"geheugenlimiet aanpassen om te voldoen aan de moderne WordPress-normen."
+
+#: dashboard/mybanners.php:19
+msgid "MultiDealer Premium: More Features, More Control, More Sales!"
+msgstr "MultiDealer Premium: meer functies, meer controle, meer verkopen!"
+
+#: dashboard/mybanners.php:22
+msgid "Access Advanced Features for Design and Product Filtering!"
+msgstr ""
+"Krijg toegang tot geavanceerde functies voor ontwerp- en productfiltering!"
+
+#: dashboard/mybanners.php:25
+msgid "Unlock the Full Potential of Your Showroom with MultiDealer Premium!"
+msgstr ""
+"Benut het volledige potentieel van uw showroom met MultiDealer Premium!"
+
+#: dashboard/mybanners.php:34
+msgid "Many Features are not included in the free version"
+msgstr "Veel functies zijn niet inbegrepen in de gratis versie"
+
+#: dashboard/mybanners.php:35
+msgid "More Shortcodes to increase your control over the show room page"
+msgstr "Meer shortcodes om uw controle over de showroompagina te vergroten"
+
+#: dashboard/mybanners.php:36
+#| msgid "Fill Out Products Table"
+msgid "Filter Products by Makes"
+msgstr "Filter producten op merk"
+
+#: dashboard/mybanners.php:37
+#| msgid "Fill Out Products Table"
+msgid "Filter Products by Models"
+msgstr "Filter producten op modellen"
+
+#: dashboard/mybanners.php:38
+msgid "Complete real time visual template design functionality."
+msgstr "Volledige realtime visuele sjabloonontwerpfunctionaliteit."
+
+#: dashboard/mybanners.php:39
+msgid "Unlimited Colours Setup to match your site theme"
+msgstr "Onbeperkte kleureninstelling die past bij het thema van uw site"
+
+#: dashboard/mybanners.php:40
+msgid "Dedicated Premium Support"
+msgstr "Toegewijde Premium-ondersteuning"
+
+#: dashboard/mybanners.php:41
+msgid "A Lot More..."
+msgstr "Nog veel meer..."
+
+#: dashboard/mybanners.php:223
+msgid "Did you like the MultiDealer Plugin?"
+msgstr "Vond u de MultiDealer Plugin leuk?"
+
+#: dashboard/mybanners.php:225
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Steun ons door onze plugin te beoordelen op WordPress.org. Help ons deze "
+"plugin live en up-to-date te houden."
+
+#: dashboard/mybanners.php:228 dashboard/mybanners.php:237
+msgid "Rate"
+msgstr "Tarief"
+
+#: dashboard/mybanners.php:231
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Help ons de plugin live en up-to-date te houden"
+
+#: dashboard/mybanners.php:234
+msgid ""
+"If you use & enjoy MultiDealer Plugin, please rate it on WordPress.org. It "
+"only takes a second and helps us keep the plugin live and maintained. Thank "
+"you!"
+msgstr ""
+"Als u MultiDealer Plugin gebruikt en ervan geniet, beoordeel het dan op "
+"WordPress.org. Het kost maar een seconde en helpt ons de plugin live te "
+"houden en te onderhouden. Bedankt!"
+
+#: includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr "Informatie aanvragen"
+
+#: includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr "Jouw naam"
+
+#: includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr "Typ uw naam"
+
+#: includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr "Uw e-mail"
+
+#: includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr "Typ uw e-mailadres"
+
+#: includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr "Uw bericht"
+
+#: includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr "Typ uw bericht"
+
+#: includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Versturen"
+
+#: includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/contact-form/multi-contact-show-form.php:53
+msgid "Sending your message. Please wait..."
+msgstr "Uw bericht wordt verzonden. Even geduld..."
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Bedankt voor uw bericht! We nemen binnenkort contact met u op."
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "There was a problem sending your message. Please try again."
+msgstr ""
+"Er is een probleem opgetreden bij het verzenden van uw bericht. Probeer het "
+"opnieuw."
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "Please enter one valid email address."
+msgstr "Voer een geldig e-mailadres in."
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please complete all the fields in the form before sending."
+msgstr "Vul alle velden in voordat u het formulier verzendt."
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Name Error. Use only alpha."
+msgstr "Naamfout. Gebruik alleen alfanumerieke tekens."
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Bericht Fout. Gebruik alleen letters en cijfers."
+
+#: includes/customizer/customizer.php:15
+msgid "multidealer Custom Design"
+msgstr "multidealer Aangepast ontwerp"
+
+#: includes/customizer/customizer.php:18
+msgid ""
+"Click the Templates icon at the top left of the preview window to change "
+"your template. To customize further, simply click on any element, or it's "
+"corresponding shortcut icon, to edit it's styling. "
+msgstr ""
+"Klik op het pictogram Sjablonen linksboven in het voorbeeldvenster om uw "
+"sjabloon te wijzigen. Om verder aan te passen, klikt u gewoon op een element "
+"of het bijbehorende snelkoppelingspictogram om de stijl ervan te bewerken."
+
+#: includes/customizer/customizer.php:27
+msgid "Help"
+msgstr "Hulp"
+
+#: includes/customizer/customizer.php:54
+msgid "Templates"
+msgstr "Sjablonen"
+
+#: includes/customizer/customizer.php:57
+msgid "Choose the Multi Dealer Template to Use."
+msgstr "Kies de Multi Dealer-sjabloon die u wilt gebruiken."
+
+#: includes/customizer/customizer.php:66
+msgid "Single Multi Templates"
+msgstr "Enkele multi-sjablonen"
+
+#: includes/customizer/customizer.php:69
+msgid "Choose the Single Multi Template to Use."
+msgstr "Kies de Single Multi Template die u wilt gebruiken."
+
+#: includes/customizer/customizer.php:77
+msgid "Search Box LayOut"
+msgstr "Zoekvak lay-out"
+
+#: includes/customizer/customizer.php:79
+msgid "Design the Search Box"
+msgstr "Ontwerp het zoekvak"
+
+#: includes/customizer/customizer.php:83
+msgid "Search Box Fields"
+msgstr "Zoekvakvelden"
+
+#: includes/customizer/customizer.php:85
+msgid "Manage the Design fields"
+msgstr "Beheer de ontwerpvelden"
+
+#: includes/customizer/customizer.php:89
+msgid "Search Box Slider"
+msgstr "Zoekvak schuifregelaar"
+
+#: includes/customizer/customizer.php:91
+msgid "Customize the price Slider."
+msgstr "Pas de prijsschuifbalk aan."
+
+#: includes/customizer/customizer.php:95
+msgid "Search Box Button"
+msgstr "Zoekvakknop"
+
+#: includes/customizer/customizer.php:97
+msgid "Customize the Search Box Button."
+msgstr "Pas de zoekvakknop aan."
+
+#: includes/customizer/customizer.php:101
+msgid "Multi Template and Widgets"
+msgstr "Meerdere sjablonen en widgets"
+
+#: includes/customizer/customizer.php:104
+msgid "Customize the Multi Template and Widgets."
+msgstr "Pas de Multi Template en Widgets aan."
+
+#: includes/customizer/customizer.php:110
+msgid "Single Multi Template"
+msgstr "Enkele Multi-sjabloon"
+
+#: includes/customizer/customizer.php:112
+msgid "Customize the Single Multi Template."
+msgstr "Pas de Single Multi-sjabloon aan."
+
+#: includes/customizer/customizer.php:116
+msgid "Buttons Back and Contact Us"
+msgstr "Knoppen Terug en Neem Contact Met Ons Op"
+
+#: includes/customizer/customizer.php:119
+msgid "Customize the Buttons Back and Contact Us."
+msgstr "Pas de knoppen aan en neem contact met ons op."
+
+#: includes/customizer/customizer.php:178
+msgid "Search Fields Label Color"
+msgstr "Zoekvelden Labelkleur"
+
+#: includes/customizer/customizer.php:190
+msgid "Search Fields Controls Color"
+msgstr "Zoekvelden Besturingselementen Kleur"
+
+#: includes/customizer/customizer.php:202
+msgid "Search Fields Controls Background Color"
+msgstr "Zoekvelden Besturingselementen Achtergrondkleur"
+
+#: includes/customizer/customizer.php:218
+msgid "Search Fields Controls Border Radius"
+msgstr "Zoekvelden Besturingselementen Randradius"
+
+#: includes/customizer/customizer.php:219
+#: includes/customizer/customizer.php:286
+#: includes/customizer/customizer.php:364
+#: includes/customizer/customizer.php:521
+#: includes/customizer/customizer.php:597
+#: includes/customizer/customizer.php:899
+msgid "Border Radius: from 0 to 30."
+msgstr "Randradius: van 0 tot 30."
+
+#: includes/customizer/customizer.php:234
+msgid "Search Slider Label Color"
+msgstr "Zoek schuifbalk label kleur"
+
+#: includes/customizer/customizer.php:246
+msgid "Search Slider Color"
+msgstr "Zoek schuifbalk kleur"
+
+#: includes/customizer/customizer.php:258
+msgid "Search Slider Handle Color"
+msgstr "Zoek schuifregelaar handvat kleur"
+
+#: includes/customizer/customizer.php:270
+msgid "Search Slider Background Color"
+msgstr "Zoek schuifregelaar achtergrondkleur"
+
+#: includes/customizer/customizer.php:285
+msgid "Search Slider Border Radius"
+msgstr "Zoek schuifbalk rand radius"
+
+#: includes/customizer/customizer.php:302
+msgid "Search Slider Border Color"
+msgstr "Zoek schuifbalk randkleur"
+
+#: includes/customizer/customizer.php:318
+msgid "Search Box Button Text Color"
+msgstr "Tekstkleur van zoekvakknop"
+
+#: includes/customizer/customizer.php:331
+msgid "Search Box Button Background Color"
+msgstr "Achtergrondkleur van zoekvakknop"
+
+#: includes/customizer/customizer.php:346
+msgid "Search Box Button Width"
+msgstr "Breedte zoekvakknop"
+
+#: includes/customizer/customizer.php:347
+#: includes/customizer/customizer.php:539
+msgid "Button width: from 100 to 300."
+msgstr "Knoopbreedte: van 100 tot 300."
+
+#: includes/customizer/customizer.php:363
+msgid "Search Box Button Border Radius"
+msgstr "Zoekvak Knop Rand Radius"
+
+#: includes/customizer/customizer.php:386
+msgid "Template Name"
+msgstr "Sjabloonnaam"
+
+#: includes/customizer/customizer.php:417
+msgid "Single Multi Template Name"
+msgstr "Enkele multi-sjabloonnaam"
+
+#: includes/customizer/customizer.php:453
+msgid "Template Text Color"
+msgstr "Sjabloontekstkleur"
+
+#: includes/customizer/customizer.php:466
+msgid "Template Background Color (works with templates gallery and list view)"
+msgstr ""
+"Achtergrondkleur sjabloon (werkt met sjablonengalerij en lijstweergave)"
+
+#: includes/customizer/customizer.php:479
+msgid "Template Title Color"
+msgstr "Kleur van sjabloontitel"
+
+#: includes/customizer/customizer.php:492
+msgid "Template Button View Color"
+msgstr "Sjabloonknop Weergavekleur"
+
+#: includes/customizer/customizer.php:505
+msgid "Template Button View Background Color"
+msgstr "Achtergrondkleur van de sjabloonknopweergave"
+
+#: includes/customizer/customizer.php:520
+msgid "Template Button View Border Radius"
+msgstr "Sjabloonknop Weergave Rand Radius"
+
+#: includes/customizer/customizer.php:538
+msgid "Template Button View Width"
+msgstr "Breedte weergave sjabloonknop"
+
+#: includes/customizer/customizer.php:554
+msgid "Template List View Separator Color"
+msgstr "Sjabloon Lijstweergave Scheidingskleur"
+
+#: includes/customizer/customizer.php:568
+msgid "Template Grid Border Color"
+msgstr "Sjabloon rasterrandkleur"
+
+#: includes/customizer/customizer.php:581
+msgid "Template Gallery and Widgets Border Color"
+msgstr "Randkleur van sjabloongalerij en widgets"
+
+#: includes/customizer/customizer.php:596
+msgid "Template Gallery and Widgets Border Radius"
+msgstr "Sjabloongalerij en widgets Randradius"
+
+#: includes/customizer/customizer.php:611
+msgid "Template Gallery and Widgets Title Color"
+msgstr "Titelkleur van sjabloongalerij en widgets"
+
+#: includes/customizer/customizer.php:624
+msgid "Template Gallery and Widgets Title Background Color"
+msgstr "Achtergrondkleur van de titel van de sjabloongalerij en widgets"
+
+#: includes/customizer/customizer.php:638
+msgid "Widget Search Background Color"
+msgstr "Widget Zoek Achtergrondkleur"
+
+#: includes/customizer/customizer.php:653
+msgid "Single Multi Template Background Color (works with templates 1 and 4"
+msgstr "Enkele Multi Template Achtergrondkleur (werkt met templates 1 en 4)"
+
+#: includes/customizer/customizer.php:666
+msgid "Single Multi Template Color"
+msgstr "Enkele multi-sjabloonkleur"
+
+#: includes/customizer/customizer.php:680
+msgid "Single Multi Template Features Title Background Color"
+msgstr "Enkele Multi Template Functies Titel Achtergrondkleur"
+
+#: includes/customizer/customizer.php:695
+msgid "Single Multi Template Features Title Color"
+msgstr "Enkele Multi Template Functies Titel Kleur"
+
+#: includes/customizer/customizer.php:714
+msgid "Single Multi Template Features Border Color"
+msgstr "Enkele Multi Template Functies Randkleur"
+
+#: includes/customizer/customizer.php:737
+msgid "Features Border Radius"
+msgstr "Kenmerken Rand Radius"
+
+#: includes/customizer/customizer.php:738
+msgid "Features Border Radius: from 0 to 30."
+msgstr "Kenmerken Randradius: van 0 tot 30."
+
+#: includes/customizer/customizer.php:757
+#: settings/options/plugin_options_tabbed.php:202
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: includes/customizer/customizer.php:772
+msgid "Border Size"
+msgstr "Randgrootte"
+
+#: includes/customizer/customizer.php:774
+msgid "Border Size: from 0 to 5. Mark 0 to hide the Boarder."
+msgstr "Randgrootte: van 0 tot 5. Markeer 0 om de rand te verbergen."
+
+#: includes/customizer/customizer.php:791
+msgid "Border Radius"
+msgstr "Grensradius"
+
+#: includes/customizer/customizer.php:792
+msgid "Border Radius: from 1 to 70px."
+msgstr "Randradius: van 1 tot 70px."
+
+#: includes/customizer/customizer.php:807
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: includes/customizer/customizer.php:822
+msgid "Margin Bottom"
+msgstr "Marge Onderkant"
+
+#: includes/customizer/customizer.php:823
+msgid "Margin Bottom: from 0 to 30."
+msgstr "Marge onder: van 0 tot 30."
+
+#: includes/customizer/customizer.php:840
+msgid "Back and Contact Us Buttons Color"
+msgstr "Terug en Contacteer Ons Knoppen Kleur"
+
+#: includes/customizer/customizer.php:854
+msgid "Back and Contact Us Buttons Background Color"
+msgstr "Achtergrondkleur van de knoppen Terug en Contact opnemen"
+
+#: includes/customizer/customizer.php:872
+msgid "Back and Contact Us Buttons width"
+msgstr "Terug en Neem contact met ons op Knopbreedte"
+
+#: includes/customizer/customizer.php:873
+msgid "Border Radius: from 100 to 300."
+msgstr "Grensradius: van 100 tot 300."
+
+#: includes/customizer/customizer.php:898
+msgid "Back and Contact Us Buttons Border Radius"
+msgstr "Terug en contactknoppen Randradius"
+
+#: includes/diagnose/class_bill_diagnose.php:610
+#: includes/diagnose/class_bill_diagnose.php:631
+msgid "Our plugin"
+msgstr "Onze plug-in"
+
+#: includes/diagnose/class_bill_diagnose.php:612
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"kan niet goed functioneren omdat uw WordPress-geheugenlimiet te laag is. Uw "
+"site zal ernstige problemen ondervinden, zelfs als u onze plugin deactiveert."
+
+#: includes/diagnose/class_bill_diagnose.php:618
+#: includes/diagnose/class_bill_diagnose.php:639
+#| msgid "Learn More"
+msgid "Learn more"
+msgstr "Meer informatie"
+
+#: includes/diagnose/class_bill_diagnose.php:630
+msgid "Your site has errors."
+msgstr "Er zijn fouten op uw site."
+
+#: includes/diagnose/class_bill_diagnose.php:633
+msgid ""
+"can't function as intended. Errors, including JavaScript errors, may lead to "
+"visual problems or disrupt functionality, from minor glitches to critical "
+"site failures. Promptly address these issues before continuing."
+msgstr ""
+"kan niet functioneren zoals bedoeld. Fouten, waaronder JavaScript-fouten, "
+"kunnen leiden tot visuele problemen of de functionaliteit verstoren, van "
+"kleine storingen tot kritieke sitestoringen. Los deze problemen onmiddellijk "
+"op voordat u verdergaat."
+
+#: includes/diagnose/class_bill_diagnose.php:659
+#| msgid "Critical"
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Kritieke kwesties"
+
+#: includes/diagnose/class_bill_diagnose.php:700
+msgid ""
+"Displaying the latest recurring errors from your error log file and "
+"eventually alert about low WordPress memory limit is a courtesy of plugin"
+msgstr ""
+"Het weergeven van de laatste terugkerende fouten uit uw foutenlogboekbestand "
+"en uiteindelijk een waarschuwing over een lage geheugenlimiet voor WordPress "
+"is een service van de plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:702
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; \n"
+"                it simply means you will no longer be notified here that "
+"they are happening, but they can still harm your site."
+msgstr ""
+"Het uitschakelen van onze plugin voorkomt niet dat de fouten optreden; \n"
+"het betekent alleen dat u hier niet langer op de hoogte wordt gesteld dat ze "
+"optreden, maar ze kunnen nog steeds schadelijk zijn voor uw site."
+
+#: includes/diagnose/class_bill_diagnose.php:710
+msgid "Potential Problems"
+msgstr "Mogelijke problemen"
+
+#: includes/diagnose/class_bill_diagnose.php:718
+#| msgid "Low WordPress Memory Limit in wp-config file"
+msgid "Low WordPress Memory Limit"
+msgstr "Lage WordPress-geheugenlimiet"
+
+#: includes/diagnose/class_bill_diagnose.php:731
+#| msgid "Your usage now: "
+msgid "Your usage now"
+msgstr "Uw gebruik nu"
+
+#: includes/diagnose/class_bill_diagnose.php:739
+msgid "Total Php Server Memory"
+msgstr "Totaal PHP-servergeheugen"
+
+#: includes/diagnose/class_bill_diagnose.php:748
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Uw WordPress-geheugenlimiet is te laag, wat kan leiden tot kritieke "
+"problemen op uw site vanwege onvoldoende bronnen. Los dit probleem "
+"onmiddellijk op voordat u verdergaat."
+
+#: includes/diagnose/class_bill_diagnose.php:783
+msgid "Site Errors"
+msgstr "Sitefouten"
+
+#: includes/diagnose/class_bill_diagnose.php:788
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Er zijn de afgelopen 2 dagen fouten opgetreden op uw site. Deze fouten, "
+"waaronder JavaScript-problemen, kunnen visuele problemen veroorzaken of de "
+"functionaliteit verstoren, variërend van kleine storingen tot kritieke "
+"sitestoringen. JavaScript-fouten kunnen de uitvoering van JavaScript "
+"beëindigen, waardoor alle daaropvolgende opdrachten niet meer werken."
+
+#: includes/diagnose/class_bill_diagnose.php:846
+msgid "This is a partial list of the errors found."
+msgstr "Dit is een gedeeltelijke lijst van de gevonden fouten."
+
+#: includes/diagnose/class_bill_diagnose.php:1324
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Dit zijn kritieke problemen die een aanzienlijke impact kunnen hebben op de "
+"prestaties van uw site. Ze kunnen ervoor zorgen dat veel plugins en "
+"functionaliteiten niet goed werken en in sommige gevallen uw site volledig "
+"onbruikbaar maken, afhankelijk van de ernst ervan. Pak ze snel aan."
+
+#: includes/functions/functions.php:425
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/functions/health.php:50
+msgid "My Memory Test"
+msgstr "Mijn geheugentest"
+
+#: includes/functions/health.php:65 includes/functions/health_permalink.php:37
+msgid "Critical"
+msgstr "Kritisch"
+
+#: includes/functions/health.php:70
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr "Lage WordPress-geheugenlimiet in wp-config-bestand"
+
+#: includes/functions/health.php:73
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+"Als u uw site uitvoert met weinig beschikbaar geheugen, kan dit resulteren "
+"in traag gedrag, of pagina's laden niet, u krijgt willekeurige witte "
+"schermen van de dood of 500 interne serverfout. In principe geldt: hoe meer "
+"inhoud, functies en plug-ins u aan uw site toevoegt, hoe groter uw "
+"geheugenlimiet moet zijn. Verhoog de WP-geheugenlimiet is een "
+"standaardpraktijk in WordPress. U kunt de geheugenlimiet in WordPress "
+"handmatig verhogen door het bestand wp-config.php te bewerken. U kunt "
+"instructies vinden in de officiële WordPress-documentatie (Geheugen verhogen "
+"dat is toegewezen aan PHP). Klik gewoon op de onderstaande link:"
+
+#: includes/functions/health.php:78
+msgid "WordPress Help Page"
+msgstr "WordPress Helppagina"
+
+#: includes/functions/health_permalink.php:17
+msgid "Wrong Permalink"
+msgstr "Verkeerde permanente link"
+
+#: includes/functions/health_permalink.php:42
+msgid "Wrong Permalink Settings"
+msgstr "Verkeerde permalinkinstellingen"
+
+#: includes/functions/health_permalink.php:45
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name "
+"(check)\n"
+"                     Then, click Save Changes."
+msgstr ""
+"Los het op om de 404-foutpagina te voorkomen.\n"
+"Om het te corrigeren, ga je naar \n"
+"Dashboard => Instellingen => Permalinks => Berichtnaam (vinkje)\n"
+"Klik vervolgens op Wijzigingen opslaan."
+
+#: includes/help/help.php:350
+msgid "The easiest way to manage, list and sell yours products online."
+msgstr ""
+"De eenvoudigste manier om uw producten online te beheren, te vermelden en te "
+"verkopen."
+
+#: includes/help/help.php:352
+msgid "Follow the 3 steps in this main screen after install the plugin."
+msgstr ""
+"Volg de 3 stappen op dit hoofdscherm nadat u de plugin hebt geïnstalleerd."
+
+#: includes/help/help.php:354
+msgid "You will find Context Help in many screens."
+msgstr "Contextuele hulp vindt u op veel schermen."
+
+#: includes/help/help.php:357
+#, php-format
+msgid "You can find also our complete OnLine Guide %shere%s."
+msgstr "Onze complete OnLine Gids vindt u  %shier%s."
+
+#: includes/help/help.php:364 includes/help/help.php:471
+#: includes/help/help.php:557 includes/help/help.php:603
+#: includes/help/help.php:623
+msgid "Overview"
+msgstr "Overzicht"
+
+#: includes/help/help.php:368
+msgid "If you want to import demo data, download the demo data from this link:"
+msgstr ""
+"Als u demogegevens wilt importeren, downloadt u de demogegevens via deze "
+"link:"
+
+#: includes/help/help.php:372
+msgid "After download:"
+msgstr "Na het downloaden:"
+
+#: includes/help/help.php:374
+msgid "1. Log in to that site as an administrator."
+msgstr "1. Meld u als beheerder aan bij die site."
+
+#: includes/help/help.php:376
+msgid "2. Go to Tools: Import in the WordPress admin panel."
+msgstr "2. Ga naar Extra: Importeren in het WordPress-beheerpaneel."
+
+#: includes/help/help.php:378
+msgid "3. Install the \"WordPress\" importer from the list."
+msgstr "3. Installeer de \"WordPress\"-importer uit de lijst."
+
+#: includes/help/help.php:380
+msgid "4. Activate & Run Importer."
+msgstr "4. Activeer en voer Importer uit."
+
+#: includes/help/help.php:382
+msgid "5. Upload the file downloaded using the form provided on that page."
+msgstr "5. Upload het gedownloade bestand via het formulier op die pagina."
+
+#: includes/help/help.php:384
+msgid ""
+"6. You will first be asked to map the authors in this export file to users "
+"on the site. For each author, you may choose to map to an existing user on "
+"the site or to create a new user."
+msgstr ""
+"6. U wordt eerst gevraagd om de auteurs in dit exportbestand toe te wijzen "
+"aan gebruikers op de site. Voor elke auteur kunt u ervoor kiezen om toe te "
+"wijzen aan een bestaande gebruiker op de site of om een nieuwe gebruiker aan "
+"te maken."
+
+#: includes/help/help.php:386
+msgid "7. WordPress will then import the demo data into you site."
+msgstr "7. WordPress importeert vervolgens de demogegevens naar uw site."
+
+#: includes/help/help.php:390
+msgid "Import Demo Data"
+msgstr "Demogegevens importeren"
+
+#: includes/help/help.php:399
+msgid ""
+"In the FIELDS screen you can manage the main table fields. These fields will "
+"show up in your main dealer form management, search bar and search widget."
+msgstr ""
+"In het FIELDS-scherm kunt u de hoofdtabelvelden beheren. Deze velden worden "
+"weergegeven in uw hoofddealerformulierbeheer, zoekbalk en zoekwidget."
+
+#: includes/help/help.php:401
+msgid "Each row represents one field."
+msgstr "Elke rij vertegenwoordigt één veld."
+
+#: includes/help/help.php:403
+msgid ""
+"For example, if you are a Car Dealer, maybe you want to add these fields:"
+msgstr ""
+"Als u bijvoorbeeld een autodealer bent, wilt u wellicht deze velden "
+"toevoegen:"
+
+#: includes/help/help.php:407 includes/help/help.php:426
+#: includes/post-type/meta-box.php:13 includes/post-type/post-functions.php:148
+#: includes/templates/template-functions.php:174
+#: includes/templates/template-showroom.php:153
+#: includes/templates/template-showroom1.php:137
+#: includes/templates/template-showroom2.php:228
+#: includes/templates/template-showroom3.php:231
+#: includes/widgets/widgets.php:77 includes/widgets/widgets.php:247
+msgid "Year"
+msgstr "Jaar"
+
+#: includes/help/help.php:408 includes/templates/template-functions.php:180
+msgid "HP"
+msgstr "PK"
+
+#: includes/help/help.php:409 includes/help/help.php:416
+#: includes/help/help.php:440
+msgid "And So On"
+msgstr "En zo verder"
+
+#: includes/help/help.php:411
+msgid ""
+"Or, if you are in Real Estate Business, maybe you want to add these fields:"
+msgstr ""
+"Of als u in de vastgoedsector werkt, wilt u misschien deze velden toevoegen:"
+
+#: includes/help/help.php:413
+msgid "Bedroom"
+msgstr "Slaapkamer"
+
+#: includes/help/help.php:414
+msgid "Pool"
+msgstr "Zwembad"
+
+#: includes/help/help.php:415
+msgid "Garage"
+msgstr "Garage"
+
+#: includes/help/help.php:419
+msgid "Technical WordPress guys call this Metadata."
+msgstr "Technische WordPress-mensen noemen dit Metadata."
+
+#: includes/help/help.php:421
+msgid "You don't need to add these fields:"
+msgstr "Deze velden hoeft u niet toe te voegen:"
+
+#: includes/help/help.php:423
+msgid "Product Name (title)"
+msgstr "Productnaam (titel)"
+
+#: includes/help/help.php:424 includes/post-type/meta-box.php:6
+#: includes/post-type/post-functions.php:145
+#: includes/search/search-function.php:281
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/help/help.php:425 includes/post-type/meta-box.php:20
+#: includes/post-type/post-functions.php:147
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: includes/help/help.php:428
+msgid "Don't create 2 fields with the same name."
+msgstr "Maak niet 2 velden met dezelfde naam."
+
+#: includes/help/help.php:431
+msgid ""
+"To add fields in the table, click the button Add New. This can open the "
+"empty window to include your information:"
+msgstr ""
+"Om velden toe te voegen aan de tabel, klikt u op de knop Nieuw toevoegen. "
+"Dit kan het lege venster openen om uw informatie op te nemen:"
+
+#: includes/help/help.php:434
+msgid "Field Name"
+msgstr "Veldnaam"
+
+#: includes/help/help.php:435
+msgid "Field Label"
+msgstr "Veldlabel"
+
+#: includes/help/help.php:436
+msgid "Field Order"
+msgstr "Veldvolgorde"
+
+#: includes/help/help.php:437
+msgid "Show in Search Bar (your frontpage)"
+msgstr "Toon in zoekbalk (uw voorpagina)"
+
+#: includes/help/help.php:438
+msgid "Show in Search Widget (your frontpage)"
+msgstr "Toon in zoekwidget (uw voorpagina)"
+
+#: includes/help/help.php:439
+msgid "Type of Field"
+msgstr "Type veld"
+
+#: includes/help/help.php:442
+msgid ""
+"In that screen, move the mouse pointer over each field to get help about "
+"that field."
+msgstr ""
+"Beweeg in dat scherm de muisaanwijzer over elk veld om hulp over dat veld te "
+"krijgen."
+
+#: includes/help/help.php:444
+msgid "Just fill out and click OK button."
+msgstr "Vul het formulier in en klik op de OK-knop."
+
+#: includes/help/help.php:447
+msgid "You have available these types of fields (Control Types):"
+msgstr ""
+"U hebt de beschikking over de volgende typen velden (besturingselementtypen):"
+
+#: includes/help/help.php:450
+msgid ""
+"Text (Used by text and numbers). It is not possible to include this type of "
+"field in Search Bars."
+msgstr ""
+"Tekst (gebruikt door tekst en getallen). Het is niet mogelijk om dit type "
+"veld op te nemen in zoekbalken."
+
+#: includes/help/help.php:451
+msgid "CheckBox"
+msgstr "Selectievakje"
+
+#: includes/help/help.php:452
+msgid "Drop Down (also called select box)"
+msgstr "Dropdown (ook wel selectievak genoemd)"
+
+#: includes/help/help.php:453
+msgid "Google Map (For example: useful in Real Estate business)"
+msgstr "Google Map (bijvoorbeeld: handig in de vastgoedsector)"
+
+#: includes/help/help.php:454
+msgid "Range Select (you can define the value min, max and step)"
+msgstr "Bereik selecteren (u kunt de waarde min, max en stap definiëren)"
+
+#: includes/help/help.php:458
+#, php-format
+msgid "For more details about HTML input types, please, check this page: %s"
+msgstr "Voor meer details over HTML-invoertypen, kijk dan op deze pagina: %s"
+
+#: includes/help/help.php:463
+msgid "You can manage the table, i.e., Add, Edit and Trash Fields."
+msgstr ""
+"U kunt de tabel beheren, dat wil zeggen: velden toevoegen, bewerken en "
+"verwijderen."
+
+#: includes/help/help.php:465
+msgid ""
+"At the Add Fields and Edit Fields forms, put the mouse over each row and the "
+"menu shows up. Then, click over Edit or Trash."
+msgstr ""
+"Plaats bij de Add Fields en Edit Fields formulieren de muis op elke rij en "
+"het menu verschijnt. Klik vervolgens op Edit of Prullenbak."
+
+#: includes/help/help.php:467
+msgid ""
+"To know more about Edit Fields, please, check the Add Fields Form Option in "
+"this help menu."
+msgstr ""
+"Voor meer informatie over het bewerken van velden kunt u de optie Velden "
+"toevoegen in het helpmenu raadplegen."
+
+#: includes/help/help.php:476
+msgid "Field Types"
+msgstr "Veldtypen"
+
+#: includes/help/help.php:481
+msgid "Add Fields Form"
+msgstr "Veldenformulier toevoegen"
+
+#: includes/help/help.php:486
+msgid "Edit and Trash Fields"
+msgstr "Velden bewerken en verwijderen"
+
+#: includes/help/help.php:495
+msgid ""
+"In the PRODUCTS screen you can manage (include, edit or delete) items in "
+"your Products Table. These products will show up on your site front page."
+msgstr ""
+"In het PRODUCTS-scherm kunt u items in uw Products Table beheren (opnemen, "
+"bewerken of verwijderen). Deze producten worden weergegeven op de voorpagina "
+"van uw site."
+
+#: includes/help/help.php:497
+msgid ""
+"We suggest you take some time to complete your Field table before this step."
+msgstr ""
+"Wij raden u aan om de tijd te nemen om uw veldtabel in te vullen voordat u "
+"deze stap uitvoert."
+
+#: includes/help/help.php:499
+msgid "Dashboard => MultiDealer => Fields Table."
+msgstr "Dashboard => MultiDealer => Veldentabel."
+
+#: includes/help/help.php:501
+msgid ""
+"You will find some fields automatically included by the system (Title, "
+"Price, Featured and Year). Just add your products in this table."
+msgstr ""
+"U vindt een aantal velden die automatisch door het systeem zijn opgenomen "
+"(titel, prijs, aanbevolen en jaar). Voeg gewoon uw producten toe aan deze "
+"tabel."
+
+#: includes/help/help.php:503
+msgid "If you are a car dealer, for example, you can add:"
+msgstr "Bent u bijvoorbeeld een autodealer, dan kunt u het volgende toevoegen:"
+
+#: includes/help/help.php:505
+msgid "Title: Ford"
+msgstr "Titel: Ford"
+
+#: includes/help/help.php:506
+msgid "Year: 2017"
+msgstr "Jaar: 2017"
+
+#: includes/help/help.php:507
+msgid "Price: 15000"
+msgstr "Prijs: 15000"
+
+#: includes/help/help.php:508
+msgid "and so on ..."
+msgstr "enzovoort..."
+
+#: includes/help/help.php:511
+msgid "Use the Makes control it is optional. To add new makes, go to:"
+msgstr ""
+"Gebruik de Makes-besturing, dit is optioneel. Om nieuwe merken toe te "
+"voegen, ga naar:"
+
+#: includes/help/help.php:513
+msgid "Dashboard=> Multi Dealer => Makes"
+msgstr "Dashboard => Multi Dealer => Merken"
+
+#: includes/help/help.php:515 includes/help/help.php:593
+msgid "If you are, for example, a car dealer, maybe you want to add:"
+msgstr ""
+"Als u bijvoorbeeld een autodealer bent, wilt u wellicht het volgende "
+"toevoegen:"
+
+#: includes/help/help.php:517 includes/help/help.php:595
+msgid "Ford"
+msgstr "doorwaadbare plaats"
+
+#: includes/help/help.php:518 includes/help/help.php:596
+msgid "Chevrolet"
+msgstr "Chevrolet"
+
+#: includes/help/help.php:523
+msgid ""
+"Use the Location control it is optional. Maybe you want to use it if you "
+"have more than one location. To add new locations, go to:"
+msgstr ""
+"Gebruik de locatiebesturing, deze is optioneel. Misschien wilt u deze "
+"gebruiken als u meer dan één locatie hebt. Om nieuwe locaties toe te voegen, "
+"gaat u naar:"
+
+#: includes/help/help.php:525
+msgid "Dashboard=> Multi Dealer => Locations"
+msgstr "Dashboard=> Multi Dealer => Locaties"
+
+#: includes/help/help.php:527 includes/help/help.php:613
+msgid "If you are, for example, in Florida, maybe you want to add:"
+msgstr ""
+"Als u bijvoorbeeld in Florida woont, wilt u wellicht het volgende toevoegen:"
+
+#: includes/help/help.php:529 includes/help/help.php:615
+msgid "Fort Lauderdale"
+msgstr "Fort Lauderdale"
+
+#: includes/help/help.php:530 includes/help/help.php:616
+msgid "Miami"
+msgstr "Miami"
+
+#: includes/help/help.php:535
+msgid "You can manage the table, i.e., Add, Edit and Trash Products."
+msgstr ""
+"U kunt de tabel beheren, dat wil zeggen: producten toevoegen, bewerken en "
+"verwijderen."
+
+#: includes/help/help.php:537
+msgid ""
+"Use the Add New Button or to Edit, put the mouse over each row and the menu "
+"will show up. Then, click over Edit or Trash."
+msgstr ""
+"Gebruik de Add New Button of Bewerken, plaats de muis op elke rij en het "
+"menu zal verschijnen. Klik vervolgens op Bewerken of Prullenbak."
+
+#: includes/help/help.php:540
+msgid ""
+"You can add one main image to each product. In the Products Form, click the "
+"button Set Featured Image at bottom right corner."
+msgstr ""
+"U kunt één hoofdafbeelding aan elk product toevoegen. Klik in het "
+"Productenformulier op de knop Set Featured Image rechtsonder."
+
+#: includes/help/help.php:542
+msgid ""
+"Read below Images Gallery menu voice about how to create an Image's gallery "
+"with many images to show up at the top of your product's page."
+msgstr ""
+"Lees hieronder in het menu Afbeeldingengalerij hoe u een afbeeldingengalerij "
+"met veel afbeeldingen kunt maken die bovenaan de pagina van uw product "
+"worden weergegeven."
+
+#: includes/help/help.php:545
+msgid ""
+"You can add many Images or one gallery for each product. Just go to "
+"Product's Form and add the images (or the gallery) in the main description "
+"field (click the Add Media button)."
+msgstr ""
+"U kunt meerdere afbeeldingen of één galerij voor elk product toevoegen. Ga "
+"gewoon naar het formulier van het product en voeg de afbeeldingen (of de "
+"galerij) toe in het hoofdbeschrijvingsveld (klik op de knop Media toevoegen)."
+
+#: includes/help/help.php:546
+msgid ""
+"Use the default WordPress Gallery or our plugin will create automatically "
+"one nice slider gallery. To enable the plugin gallery, go to Dashboard => "
+"Multi Dealer => Settings and look for Replace the WordPress Gallery with "
+"Flexslider Gallery? Then, check Yes and Save Changes. These images and "
+"gallery will be visible in single product page."
+msgstr ""
+"Gebruik de standaard WordPress Gallery of onze plugin maakt automatisch een "
+"mooie slider gallery. Om de plugin gallery in te schakelen, ga naar "
+"Dashboard => Multi Dealer => Settings en zoek naar Replace the WordPress "
+"Gallery with Flexslider Gallery? Selecteer vervolgens Yes en Save Changes. "
+"Deze afbeeldingen en gallery zijn zichtbaar op de pagina met één product."
+
+#: includes/help/help.php:549
+#, php-format
+msgid "To get more info about galleries, %svisit WordPress Help site.%s"
+msgstr ""
+"Voor meer informatie over galerijen, %sbezoek de WordPress Help-site.%s"
+
+#: includes/help/help.php:567 includes/templates/template-functions.php:87
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/help/help.php:572
+msgid "Edit and Trash Products"
+msgstr "Producten bewerken en verwijderen"
+
+#: includes/help/help.php:577
+msgid "Featured Images"
+msgstr "Uitgelichte afbeeldingen"
+
+#: includes/help/help.php:582
+msgid "Images Gallery"
+msgstr "Afbeeldingengalerij"
+
+#: includes/help/help.php:591
+msgid "Use the Makes table it is optional."
+msgstr "Het gebruik van de tabel 'Maakt' is optioneel."
+
+#: includes/help/help.php:611
+msgid ""
+"Use the Location table it is optional. Maybe you want to use it if you have "
+"more than one location."
+msgstr ""
+"Gebruik de Locatietabel, deze is optioneel. Misschien wilt u deze gebruiken "
+"als u meer dan één locatie hebt."
+
+#: includes/help/help.php:656
+msgid "Help Available for this Window!"
+msgstr "Help beschikbaar voor dit venster!"
+
+#: includes/help/help.php:657
+msgid "Just Click Help Button to get content help for this window."
+msgstr "Klik op de Help-knop voor hulp bij de inhoud van dit venster."
+
+#: includes/multi/multi-functions.php:31
+msgid "Order"
+msgstr "Volgorde"
+
+#: includes/multi/multi-functions.php:32
+msgid "Type Field"
+msgstr "Type veld"
+
+#: includes/multi/multi-functions.php:33
+msgid "Label"
+msgstr "Label"
+
+#: includes/multi/multi-functions.php:34
+msgid "Search Bar"
+msgstr "Zoekbalk"
+
+#: includes/multi/multi-functions.php:35
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/post-type/meta-box.php:7
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Hier geen speciale tekens (\"$\" \",\" \".\"), de plugin zal het nummer "
+"automatisch opmaken."
+
+#: includes/post-type/meta-box.php:14
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Het jaar van het product. Alleen cijfers, geen punt, geen komma."
+
+#: includes/post-type/meta-box.php:21
+msgid "Mark to show up at Featured Widget."
+msgstr "Markeren om te worden weergegeven in de uitgelichte widget."
+
+#: includes/post-type/meta-box.php:129
+msgid "Details"
+msgstr "Details"
+
+#: includes/post-type/post-functions.php:13
+msgid "Products"
+msgstr "Producten"
+
+#: includes/post-type/post-functions.php:17
+msgid "Edit Products"
+msgstr "Producten bewerken"
+
+#: includes/post-type/post-functions.php:18
+msgid "Search Products"
+msgstr "Zoek producten"
+
+#: includes/post-type/post-functions.php:52
+msgid "Search makes"
+msgstr "Zoeken maakt"
+
+#: includes/post-type/post-functions.php:54
+msgid "All makes"
+msgstr "Alle merken"
+
+#: includes/post-type/post-functions.php:55
+msgid "Parent makes"
+msgstr "Ouder maakt"
+
+#: includes/post-type/post-functions.php:56
+msgid "Parent makes:"
+msgstr "Ouder maakt:"
+
+#: includes/post-type/post-functions.php:57
+msgid "Edit makes"
+msgstr "Bewerken maakt"
+
+#: includes/post-type/post-functions.php:58
+msgid "Update makes"
+msgstr "Update maakt"
+
+#: includes/post-type/post-functions.php:59
+msgid "Add New makes"
+msgstr "Nieuwe merken toevoegen"
+
+#: includes/post-type/post-functions.php:60
+msgid "New makes"
+msgstr "Nieuwe merken"
+
+#: includes/post-type/post-functions.php:61
+msgid "Separate makes with commas"
+msgstr "Scheidt de woorden met komma's"
+
+#: includes/post-type/post-functions.php:62
+msgid "Add or Remove makes"
+msgstr "Voeg toe of verwijder merken"
+
+#: includes/post-type/post-functions.php:63
+msgid "Choose from the most used makers"
+msgstr "Kies uit de meest gebruikte makers"
+
+#: includes/post-type/post-functions.php:80
+msgid "Search Locations"
+msgstr "Zoek locaties"
+
+#: includes/post-type/post-functions.php:82
+msgid "All Locations"
+msgstr "Alle locaties"
+
+#: includes/post-type/post-functions.php:83
+msgid "Parent locations"
+msgstr "Bovenliggende locaties"
+
+#: includes/post-type/post-functions.php:84
+msgid "Parent locations:"
+msgstr "Bovenliggende locaties:"
+
+#: includes/post-type/post-functions.php:85
+msgid "Edit locations"
+msgstr "Locaties bewerken"
+
+#: includes/post-type/post-functions.php:86
+msgid "Update locations"
+msgstr "Locaties bijwerken"
+
+#: includes/post-type/post-functions.php:87
+msgid "Add New locations"
+msgstr "Nieuwe locaties toevoegen"
+
+#: includes/post-type/post-functions.php:88
+msgid "New locations"
+msgstr "Nieuwe locaties"
+
+#: includes/post-type/post-functions.php:89
+msgid "Separate locations with commas"
+msgstr "Scheid locaties met komma's"
+
+#: includes/post-type/post-functions.php:90
+msgid "Add or Remove locations"
+msgstr "Locaties toevoegen of verwijderen"
+
+#: includes/post-type/post-functions.php:91
+msgid "Choose from the most used locations"
+msgstr "Kies uit de meest gebruikte locaties"
+
+#: includes/post-type/post-functions.php:146
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/post-type/post-functions.php:174
+msgid "Call For Price"
+msgstr "Bel voor prijs"
+
+#: includes/search/search-function.php:21
+#: includes/search/search-function.php:309 includes/widgets/widgets.php:392
+msgid "Search"
+msgstr "Zoekopdracht"
+
+#: includes/search/search-function.php:92
+#: includes/templates/template-functions.php:102
+msgid "Make"
+msgstr "Maken"
+
+#: includes/search/search-function.php:100
+#: includes/search/search-function.php:226
+msgid "Any"
+msgstr "Elk"
+
+#: includes/search/search-function.php:152
+#: includes/search/search-function.php:177
+#: includes/search/search-function.php:199
+msgid "All"
+msgstr "Alle"
+
+#: includes/search/search-function.php:201
+#: includes/templates/template-functions.php:138
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/search/search-function.php:203
+#: includes/templates/template-functions.php:140
+msgid "No"
+msgstr "Nee"
+
+#: includes/search/search-function.php:219
+msgid "Order By"
+msgstr "Bestellen op"
+
+#: includes/search/search-function.php:228
+msgid "Year newest first"
+msgstr "Jaar nieuwste eerst"
+
+#: includes/search/search-function.php:231
+msgid "Year oldest first"
+msgstr "Jaar oudste eerst"
+
+#: includes/search/search-function.php:234
+msgid "Price higher first"
+msgstr "Prijs eerst hoger"
+
+#: includes/search/search-function.php:237
+msgid "Price lower first"
+msgstr "Eerst lagere prijs"
+
+#: includes/search/search-function.php:253
+msgid "Price Range"
+msgstr "Prijsklasse"
+
+#: includes/templates/template-functions.php:108
+msgid "Model"
+msgstr "Model"
+
+#: includes/templates/template-functions.php:116
+msgid "Options"
+msgstr "Opties"
+
+#: includes/templates/template-functions.php:162
+#: includes/templates/template-showroom.php:121
+#: includes/templates/template-showroom1.php:112
+#: includes/templates/template-showroom2.php:204
+#: includes/templates/template-showroom3.php:207
+#: includes/widgets/widgets.php:63 includes/widgets/widgets.php:233
+msgid "Call for Price"
+msgstr "Bel voor prijs"
+
+#: includes/templates/template-functions.php:179
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-showroom.php:180
+#: includes/templates/template-showroom1.php:163
+#: includes/templates/template-showroom2.php:246
+#: includes/templates/template-showroom3.php:257
+#: includes/templates/template-single.php:44
+msgid "Back"
+msgstr "Rug"
+
+#: includes/templates/template-showroom.php:181
+#: includes/templates/template-showroom1.php:164
+#: includes/templates/template-showroom2.php:247
+#: includes/templates/template-showroom3.php:258
+msgid "Onward"
+msgstr "Vooruit"
+
+#: includes/templates/template-showroom.php:193
+#: includes/templates/template-showroom1.php:176
+#: includes/templates/template-showroom2.php:256
+#: includes/templates/template-showroom3.php:267
+msgid "Not Found !"
+msgstr "Niet gevonden!"
+
+#: includes/templates/template-showroom1.php:151
+#: includes/templates/template-showroom3.php:248
+msgid "View"
+msgstr "Weergave"
+
+#: includes/templates/template-single.php:65
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: includes/widgets/widgets.php:17
+msgid "A list of Recent products"
+msgstr "Een lijst met recente producten"
+
+#: includes/widgets/widgets.php:44
+msgid "New Arrivals"
+msgstr "Nieuw binnen"
+
+#: includes/widgets/widgets.php:184
+msgid "A list of Featured products"
+msgstr "Een lijst met aanbevolen producten"
+
+#: includes/widgets/widgets.php:208
+msgid "Featured Products"
+msgstr "Aanbevolen producten"
+
+#: includes/widgets/widgets.php:365
+msgid "Search products"
+msgstr "Zoek producten"
+
+#: includes/widgets/widgets.php:378
+msgid "Title"
+msgstr "Titel"
+
+#: settings/options/plugin_options_tabbed.php:15
+msgid "Currency"
+msgstr "Munteenheid"
+
+#: settings/options/plugin_options_tabbed.php:66
+msgid "Miles"
+msgstr "Mijlen"
+
+#: settings/options/plugin_options_tabbed.php:67
+msgid "Kms"
+msgstr "Km"
+
+#: settings/options/plugin_options_tabbed.php:68
+msgid "Hours"
+msgstr "Uren"
+
+#: settings/options/plugin_options_tabbed.php:74
+msgid "Liters - Gallons"
+msgstr "Liters - Gallons"
+
+#: settings/options/plugin_options_tabbed.php:76
+msgid "Liters"
+msgstr "Liter"
+
+#: settings/options/plugin_options_tabbed.php:77
+msgid "Gallons"
+msgstr "Gallon"
+
+#: settings/options/plugin_options_tabbed.php:83
+msgid "How many products would you like to display per page?"
+msgstr "Hoeveel producten wilt u per pagina weergeven?"
+
+#: settings/options/plugin_options_tabbed.php:96
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Zijbalk verwijderen van de pagina met zoekresultaten"
+
+#: settings/options/plugin_options_tabbed.php:105
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Vervang de Wordpress-galerij door de Flexslider-galerij"
+
+#: settings/options/plugin_options_tabbed.php:114
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Contactformulier op één productpagina inschakelen?"
+
+#: settings/options/plugin_options_tabbed.php:124
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Vul uw contact-e-mailadres in om e-mails te ontvangen van het "
+"contactformulier onderaan de individuele productpagina."
+
+#: settings/options/plugin_options_tabbed.php:129
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr ""
+"Optioneel. Vul uw Google API in om te gebruiken met uw kaarten (Google Maps)"
+
+#: settings/options/plugin_options_tabbed.php:134
+msgid "Show the Order By Control in the Search Bar"
+msgstr "Toon de volgorde per besturingselement in de zoekbalk"
+
+#: settings/options/plugin_options_tabbed.php:145
+msgid "In Show Room Page, use Gallery, List View or Grid Template"
+msgstr ""
+"Gebruik op de Show Room-pagina Galerij, Lijstweergave of Rastersjabloon"
+
+#: settings/options/plugin_options_tabbed.php:156
+msgid ""
+"In Show Room Page, Template List View or Grid, Choose the thumbnail image "
+"size (width) - Only Premium"
+msgstr ""
+"Kies op de Show Room-pagina, sjabloonlijstweergave of raster de grootte van "
+"de miniatuurafbeelding (breedte) - Alleen Premium"
+
+#: settings/options/plugin_options_tabbed.php:168
+msgid "In Single Product Page, use Template"
+msgstr "Gebruik op de pagina met één product de sjabloon"
+
+#: settings/options/plugin_options_tabbed.php:178
+msgid "Enable Auto Update Plugin? (default Yes)"
+msgstr "Automatische update-plug-in inschakelen? (standaard Ja)"
+
+#: settings/options/plugin_options_tabbed.php:180
+msgid "Yes, enable Multi Dealer Auto Update"
+msgstr "Ja, schakel Multi Dealer Auto Update in"
+
+#: settings/options/plugin_options_tabbed.php:181
+msgid "No (unsafe)"
+msgstr "Nee (onveilig)"
+
+#: settings/options/plugin_options_tabbed.php:186
+msgid "Choose colours and so on"
+msgstr "Kies kleuren en dergelijke"
+
+#: settings/options/plugin_options_tabbed.php:192
+msgid "Search Button Background Color"
+msgstr "Achtergrondkleur van zoekknop"
+
+#: settings/options/plugin_options_tabbed.php:197
+msgid "Search Button Color"
+msgstr "Zoekknop Kleur"
+
+#: settings/options/plugin_options_tabbed.php:206
+msgid "Foreground Text Color"
+msgstr "Voorgrondtekstkleur"
+
+#: settings/options/plugin_options_tabbed.php:210
+msgid "Label Color"
+msgstr "Etiketkleur"
+
+#: settings/options/plugin_options_tabbed.php:214
+msgid "Select Border Color"
+msgstr "Selecteer randkleur"
+
+#: settings/options/plugin_options_tabbed.php:218
+msgid "product Background Page Color"
+msgstr "product Achtergrondpagina Kleur"
+
+#: settings/options/plugin_options_tabbed.php:222
+msgid "product Box Border Color"
+msgstr "product Box Randkleur"
+
+#: settings/options/plugin_options_tabbed.php:226
+msgid "Select Title Color"
+msgstr "Selecteer titelkleur"
+
+#: settings/options/plugin_options_tabbed.php:231
+msgid "Single product Page Background Color"
+msgstr "Achtergrondkleur van de pagina met één product"
+
+#: settings/options/plugin_options_tabbed.php:235
+msgid "Single product Page Foreground Text Color"
+msgstr "Enkel product Pagina Voorgrond Tekstkleur"
+
+#: settings/options/plugin_options_tabbed.php:239
+msgid "Customized CSS"
+msgstr "Aangepaste CSS"
+
+#: settings/options/plugin_options_tabbed.php:247
+#: settings/options/plugin_options_tabbed.php:271
+msgid "Show the Order By Control"
+msgstr "Toon de volgorde per controle"
+
+#: settings/options/plugin_options_tabbed.php:257
+#: settings/options/plugin_options_tabbed.php:281
+msgid "Show the Make Control"
+msgstr "Toon de Make Control"
+
+#: settings/options/plugin_options_tabbed.php:265
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Pas uw zoekwidgetopties aan. Kies de velden die u wilt weergeven in de "
+"zoekwidget."
+
+#. Plugin Name of the plugin/theme
+msgid "MultiDealer"
+msgstr "MultiDealer"
+
+#. Plugin URI of the plugin/theme
+msgid "http://multidealerplugin.com"
+msgstr "http://multidealerplugin.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Dealers and Real Estate Brokers can manage, list and sell products online "
+"quickly by create custom fieds."
+msgstr ""
+"Dealers en makelaars kunnen producten snel online beheren, vermelden en "
+"verkopen door aangepaste velden te maken."
+
+#. Author of the plugin/theme
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#. Author URI of the plugin/theme
+msgid "http://billminozzi.com"
+msgstr "http://billminozzi.com"

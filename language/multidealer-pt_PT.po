@@ -1,0 +1,671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: multidealer\n"
+"POT-Creation-Date: 2019-10-07 17:54+0100\n"
+"PO-Revision-Date: 2019-10-07 17:55+0100\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_;esc_attr_e;_x;_nx;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/dashboard/main.php:94 dashboard/main.php:94
+#, fuzzy
+msgid "Fields Table"
+msgstr "Tipos de Campo"
+
+#: dashboard/dashboard/main.php:95 dashboard/main.php:95
+msgid "Products Table"
+msgstr ""
+
+#: dashboard/dashboard/main.php:96 dashboard/main.php:96
+#: includes/help/help.php:277 includes/post-type/post-functions.php:50
+msgid "Makes"
+msgstr "Fabricantes"
+
+#: dashboard/dashboard/main.php:97 dashboard/main.php:97
+#: includes/post-type/post-functions.php:78
+#, fuzzy
+msgid "Locations"
+msgstr "Localização"
+
+#: dashboard/dashboard/main.php:98 dashboard/main.php:98
+msgid "Settings"
+msgstr ""
+
+#: dashboard/dashboard/memory.php:29 dashboard/memory.php:29
+#, fuzzy
+#| msgid "Update makes"
+msgid "Update"
+msgstr "Atualizar fabricantes"
+
+#: dashboard/dashboard/memory.php:30 dashboard/memory.php:30
+#: includes/contact-form/multi-contact-show-form.php:49
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/contact-form/multi-contact-show-form.php:23
+msgid "Request Information"
+msgstr "Pedir Informação"
+
+#: includes/contact-form/multi-contact-show-form.php:27
+msgid "Your Name"
+msgstr "Seu Nome"
+
+#: includes/contact-form/multi-contact-show-form.php:30
+msgid "Please type your name"
+msgstr "Por favor digite seu nome"
+
+#: includes/contact-form/multi-contact-show-form.php:33
+msgid "Your Email"
+msgstr "Seu Email"
+
+#: includes/contact-form/multi-contact-show-form.php:36
+msgid "Please type your email"
+msgstr "Por favor digite seu email"
+
+#: includes/contact-form/multi-contact-show-form.php:40
+msgid "Your Message"
+msgstr "Sua Mensagem"
+
+#: includes/contact-form/multi-contact-show-form.php:42
+msgid "Please type your message"
+msgstr "Por favor escreva sua mensagem"
+
+#: includes/contact-form/multi-contact-show-form.php:48
+msgid "Send"
+msgstr "Enviar"
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Sending your message. Please wait..."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "There was a problem sending your message. Please try again."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please enter one valid email address."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Please complete all the fields in the form before sending."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Name Error. Use only alpha."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:60
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr ""
+
+#: includes/feedback/activated-manager.php:160
+#: includes/feedback/feedback-last.php:117
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:169
+#: includes/feedback/feedback-last.php:124
+msgid "Thank You!"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:172
+msgid "Yes, Submit"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:174
+msgid "Skip"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:116
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:122
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:126
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:128
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:130
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:132
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:133
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: includes/feedback/feedback.php:131
+msgid "Bill Minozzi"
+msgstr ""
+
+#: includes/feedback/feedback.php:135
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/feedback.php:138
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: includes/feedback/feedback.php:140
+msgid "Rate or Share"
+msgstr ""
+
+#: includes/feedback/feedback.php:141
+msgid "No, dismiss"
+msgstr ""
+
+#: includes/feedback/feedback.php:142
+msgid "or"
+msgstr ""
+
+#: includes/feedback/feedback.php:143
+msgid "Remind me later"
+msgstr ""
+
+#: includes/functions/functions.php:355
+msgid "Dashboard"
+msgstr ""
+
+#: includes/functions/health.php:49
+msgid "My Memory Test"
+msgstr ""
+
+#: includes/functions/health.php:64 includes/functions/health_permalink.php:36
+msgid "Critical"
+msgstr ""
+
+#: includes/functions/health.php:69
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr ""
+
+#: includes/functions/health.php:72
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: includes/functions/health.php:77
+msgid "WordPress Help Page"
+msgstr ""
+
+#: includes/functions/health_permalink.php:16
+msgid "Wrong Permalink"
+msgstr ""
+
+#: includes/functions/health_permalink.php:41
+msgid "Wrong Permalink Settings"
+msgstr ""
+
+#: includes/functions/health_permalink.php:44
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name "
+"(check)\n"
+"                     Then, click Save Changes."
+msgstr ""
+
+#: includes/help/help.php:49 includes/help/help.php:165
+#: includes/help/help.php:272 includes/help/help.php:316
+#: includes/help/help.php:335
+msgid "Overview"
+msgstr "Visão geral"
+
+#: includes/help/help.php:80
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/help/help.php:170
+msgid "Field Types"
+msgstr "Tipos de Campo"
+
+#: includes/help/help.php:175
+msgid "Add Fields Form"
+msgstr "Adicionar Formulário de Campos"
+
+#: includes/help/help.php:180
+msgid "Edit and Trash Fields"
+msgstr "Editar e Apagar Campos"
+
+#: includes/help/help.php:282 includes/templates/template-functions.php:79
+msgid "Location"
+msgstr "Localização"
+
+#: includes/help/help.php:287
+msgid "Edit and Trash Products"
+msgstr "Editar e Deletar Produtos"
+
+#: includes/help/help.php:292
+msgid "Featured Images"
+msgstr "Imagens em Destaque"
+
+#: includes/help/help.php:297
+msgid "Images Gallery"
+msgstr "Galeria de imagens"
+
+#: includes/multi/multi-functions.php:31
+msgid "Order"
+msgstr ""
+
+#: includes/multi/multi-functions.php:32
+msgid "Type Field"
+msgstr ""
+
+#: includes/multi/multi-functions.php:33
+msgid "Label"
+msgstr ""
+
+#: includes/multi/multi-functions.php:34
+#, fuzzy
+msgid "Search Bar"
+msgstr "Pesquisar"
+
+#: includes/multi/multi-functions.php:35
+msgid "Widget"
+msgstr ""
+
+#: includes/post-type/meta-box.php:6 includes/post-type/post-functions.php:145
+#: includes/search/search-function.php:269
+msgid "Price"
+msgstr "Preço"
+
+#: includes/post-type/meta-box.php:7
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr "Não use caracteres especiais aqui, o plugin formatará os números."
+
+#: includes/post-type/meta-box.php:13 includes/post-type/post-functions.php:148
+#: includes/templates/template-functions.php:162
+#: includes/templates/template-showroom.php:153
+#: includes/templates/template-showroom1.php:137
+#: includes/templates/template-showroom2.php:228
+#: includes/templates/template-showroom3.php:231
+#: includes/widgets/widgets.php:77 includes/widgets/widgets.php:161
+msgid "Year"
+msgstr "Ano"
+
+#: includes/post-type/meta-box.php:14
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "O ano do produto. Somente números, não use pontos nem vírgulas."
+
+#: includes/post-type/meta-box.php:20 includes/post-type/post-functions.php:147
+#, fuzzy
+msgid "Featured"
+msgstr "Imagem em destaque"
+
+#: includes/post-type/meta-box.php:21
+msgid "Mark to show up at Featured Widget."
+msgstr "Marcar para aparecer no Widget em Destaque."
+
+#: includes/post-type/meta-box.php:129
+msgid "Details"
+msgstr "Detalhes"
+
+#: includes/post-type/post-functions.php:13
+#, fuzzy
+msgid "Products"
+msgstr "Produtos em destaque"
+
+#: includes/post-type/post-functions.php:17
+#, fuzzy
+msgid "Edit Products"
+msgstr "Editar e Deletar Produtos"
+
+#: includes/post-type/post-functions.php:18
+#, fuzzy
+msgid "Search Products"
+msgstr "Procurar produtos"
+
+#: includes/post-type/post-functions.php:52
+#, fuzzy
+msgid "Search makes"
+msgstr "Fabricante Primario"
+
+#: includes/post-type/post-functions.php:54
+#, fuzzy
+msgid "All makes"
+msgstr "Novos fabricantes"
+
+#: includes/post-type/post-functions.php:55
+msgid "Parent makes"
+msgstr "Fabricante Primario"
+
+#: includes/post-type/post-functions.php:56
+msgid "Parent makes:"
+msgstr "Fabricante Primario:"
+
+#: includes/post-type/post-functions.php:57
+msgid "Edit makes"
+msgstr "Editar fabricantes"
+
+#: includes/post-type/post-functions.php:58
+msgid "Update makes"
+msgstr "Atualizar fabricantes"
+
+#: includes/post-type/post-functions.php:59
+msgid "Add New makes"
+msgstr "Adicionar Novos fabricantes"
+
+#: includes/post-type/post-functions.php:60
+msgid "New makes"
+msgstr "Novos fabricantes"
+
+#: includes/post-type/post-functions.php:61
+msgid "Separate makes with commas"
+msgstr "Fabricantes separados com vírgulas"
+
+#: includes/post-type/post-functions.php:62
+msgid "Add or Remove makes"
+msgstr "Adicionar ou Remover fabricantes"
+
+#: includes/post-type/post-functions.php:63
+msgid "Choose from the most used makers"
+msgstr "Escolha entre os fabricantes mais utilizados"
+
+#: includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Search Locations"
+msgstr "Procurar produtos"
+
+#: includes/post-type/post-functions.php:82
+#, fuzzy
+msgid "All Locations"
+msgstr "Localização"
+
+#: includes/post-type/post-functions.php:83
+msgid "Parent locations"
+msgstr "Localizaçäo Principal"
+
+#: includes/post-type/post-functions.php:84
+msgid "Parent locations:"
+msgstr "Localizaçäo Principal:"
+
+#: includes/post-type/post-functions.php:85
+msgid "Edit locations"
+msgstr "Editar localizaçoes"
+
+#: includes/post-type/post-functions.php:86
+msgid "Update locations"
+msgstr "Atualizar localizaçoes"
+
+#: includes/post-type/post-functions.php:87
+msgid "Add New locations"
+msgstr "Adicionar novas localizaçoes"
+
+#: includes/post-type/post-functions.php:88
+msgid "New locations"
+msgstr "Novas localizaçoes"
+
+#: includes/post-type/post-functions.php:89
+msgid "Separate locations with commas"
+msgstr "Separar localizaçoes com vírgulas"
+
+#: includes/post-type/post-functions.php:90
+msgid "Add or Remove locations"
+msgstr "Adicionar ou Remover localizaçoes  "
+
+#: includes/post-type/post-functions.php:91
+msgid "Choose from the most used locations"
+msgstr "Escolha entre as localizaçoes mais utilizadas"
+
+#: includes/post-type/post-functions.php:146
+msgid "Featured Image"
+msgstr "Imagem em destaque"
+
+#: includes/post-type/post-functions.php:174
+msgid "Call For Price"
+msgstr "Ligue para Preço"
+
+#: includes/search/search-function.php:21
+#: includes/search/search-function.php:294 includes/widgets/widgets.php:216
+msgid "Search"
+msgstr "Pesquisar"
+
+#: includes/search/search-function.php:84
+#: includes/templates/template-functions.php:90
+msgid "Make"
+msgstr "Fabricantes"
+
+#: includes/search/search-function.php:92
+#: includes/search/search-function.php:218
+msgid "Any"
+msgstr "Todos"
+
+#: includes/search/search-function.php:144
+#: includes/search/search-function.php:169
+#: includes/search/search-function.php:191
+msgid "All"
+msgstr "Todos"
+
+#: includes/search/search-function.php:193
+#: includes/templates/template-functions.php:126
+msgid "Yes"
+msgstr "Sim"
+
+#: includes/search/search-function.php:195
+#: includes/templates/template-functions.php:128
+msgid "No"
+msgstr "Nao"
+
+#: includes/search/search-function.php:211
+msgid "Order By"
+msgstr "Ordenar Por"
+
+#: includes/search/search-function.php:220
+msgid "Year newest first"
+msgstr "Primeiro os Mais Novos"
+
+#: includes/search/search-function.php:223
+msgid "Year oldest first"
+msgstr "Primeiro Os Mais Antigos"
+
+#: includes/search/search-function.php:226
+msgid "Price higher first"
+msgstr "Primeiro os Precos Mais Altos"
+
+#: includes/search/search-function.php:229
+msgid "Price lower first"
+msgstr "Primeiro os Precos Menores"
+
+#: includes/search/search-function.php:241
+msgid "Price Range"
+msgstr "Faixa de preço"
+
+#: includes/templates/template-functions.php:96
+msgid "Model"
+msgstr "Modelo"
+
+#: includes/templates/template-functions.php:104
+msgid "Options"
+msgstr "Opções"
+
+#: includes/templates/template-functions.php:150
+#: includes/templates/template-showroom.php:121
+#: includes/templates/template-showroom1.php:112
+#: includes/templates/template-showroom2.php:204
+#: includes/templates/template-showroom3.php:207
+#: includes/widgets/widgets.php:63 includes/widgets/widgets.php:147
+msgid "Call for Price"
+msgstr "Ligue para Preço"
+
+#: includes/templates/template-functions.php:167
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-functions.php:168
+msgid "HP"
+msgstr "HP"
+
+#: includes/templates/template-showroom.php:180
+#: includes/templates/template-showroom1.php:162
+#: includes/templates/template-showroom2.php:246
+#: includes/templates/template-showroom3.php:253
+#: includes/templates/template-single.php:42
+msgid "Back"
+msgstr "Atrás"
+
+#: includes/templates/template-showroom.php:181
+#: includes/templates/template-showroom1.php:163
+#: includes/templates/template-showroom2.php:247
+#: includes/templates/template-showroom3.php:254
+msgid "Onward"
+msgstr "Avante"
+
+#: includes/templates/template-showroom.php:193
+#: includes/templates/template-showroom1.php:175
+#: includes/templates/template-showroom2.php:256
+#: includes/templates/template-showroom3.php:263
+msgid "Not Found !"
+msgstr "Não encontrado !"
+
+#: includes/templates/template-showroom1.php:150
+#: includes/templates/template-showroom3.php:244
+msgid "View"
+msgstr "Ver"
+
+#: includes/templates/template-single.php:63
+msgid "Contact Us"
+msgstr "Contate-Nos"
+
+#: includes/widgets/widgets.php:17
+msgid "A list of Recent products"
+msgstr "Lista de produtos Recentes"
+
+#: includes/widgets/widgets.php:44
+msgid "New Arrivals"
+msgstr "Produtos Novos"
+
+#: includes/widgets/widgets.php:98
+msgid "A list of Featured products"
+msgstr "Lista de Produtos em Destaque"
+
+#: includes/widgets/widgets.php:122
+#, fuzzy
+msgid "Featured Products"
+msgstr "Produtos em destaque"
+
+#: includes/widgets/widgets.php:191
+msgid "Search products"
+msgstr "Procurar produtos"
+
+#: includes/widgets/widgets.php:203
+msgid "Title"
+msgstr "Título"
+
+#: settings/options/plugin_options_tabbed.php:19
+msgid "Currency"
+msgstr "Moeda"
+
+#: settings/options/plugin_options_tabbed.php:38
+msgid "Miles - Km"
+msgstr "Milhas - Km"
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "Miles"
+msgstr "Milhas"
+
+#: settings/options/plugin_options_tabbed.php:41
+msgid "Kms"
+msgstr "Kms"
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "Hours"
+msgstr "Horas"
+
+#: settings/options/plugin_options_tabbed.php:48
+msgid "Liters - Gallons"
+msgstr "Litros - Galões"
+
+#: settings/options/plugin_options_tabbed.php:50
+msgid "Liters"
+msgstr "Litros"
+
+#: settings/options/plugin_options_tabbed.php:51
+msgid "Gallons"
+msgstr "Galões"
+
+#: settings/options/plugin_options_tabbed.php:68
+msgid "How many products would you like to display per page?"
+msgstr "Quantos produtos gostaria de mostrar por página?"
+
+#: settings/options/plugin_options_tabbed.php:92
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Remover a Barra Lateral da Página de Resultados da Pesquisa"
+
+#: settings/options/plugin_options_tabbed.php:101
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Substituir a Galeria do Wordpress pela Galeria Flexslider"
+
+#: settings/options/plugin_options_tabbed.php:110
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Habilitar Formulario de Contato na pagina de produtos?"
+
+#: settings/options/plugin_options_tabbed.php:119
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Preencha o seu email para receber emails do Formulário incluso na pagina "
+"individual de Produtos."
+
+#: settings/options/plugin_options_tabbed.php:124
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr "Opcional: Preencha seu código API do google para usar o google mapas."
+
+#: settings/options/plugin_options_tabbed.php:129
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:136
+msgid "Customize your Search Options. Choose the fields to show on the Search."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:142
+#: settings/options/plugin_options_tabbed.php:165
+msgid "Show the Order By Control"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:153
+#: settings/options/plugin_options_tabbed.php:177
+msgid "Show the Make Control"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:160
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
